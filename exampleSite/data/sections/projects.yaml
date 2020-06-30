@@ -4,6 +4,7 @@ section:
   enable: true
   weight: 4
   showOnNavbar: true
+  showTitle: true
 
 # filter buttons
 buttons:

@@ -4,5 +4,6 @@ section:
   enable: true
   weight: 5
   showOnNavbar: true
+  showTitle: true
 
 # no other configuration is required

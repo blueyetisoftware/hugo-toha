@@ -4,6 +4,7 @@ section:
   enable: true
   weight: 6
   showOnNavbar: true
+  showTitle: true
 
 # Your achievements achievements
 achievements:
